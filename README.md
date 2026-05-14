@@ -73,8 +73,3 @@
 </p>
 
 ---
-
-### ⚙ Visitors Count:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipto-kanto-das&label=Profile+Views&color=brightgreen" alt="visitor counter"/>
-</p>
